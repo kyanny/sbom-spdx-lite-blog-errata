@@ -21,16 +21,16 @@ PackageLicenseDeclared: LicenseRef-Haisho
 PackageCopyrightText: Copyright 2020-2021 ExmapleCorp
 PackageLicenseComments: Haisho Licenseは自社が配布しているossに適用されるライセンス。
 PackageComment: exampleCorp製のパッケージ。
-### oss_component1
-PackageName: oss_component1
-SPDXID: SPDXRef-oss_component1
+### oss-component1
+PackageName: oss-component1
+SPDXID: SPDXRef-oss-component1
 PackageVersion: 1.0
-PackageFileName: oss_component1
+PackageFileName: oss-component1
 PackageDownloadLocation: http://oss-component1.example.com/download/v1.0
 FilesAnalyzed: false
 PackageLicenseConcluded: MIT
 PackageLicenseDeclared: MIT
-PackageHomePage: http://oss_component1/
+PackageHomePage: http://oss-component1/
 PackageCopyrightText: Copyright 2008-2010 oss suplier
 ### oss_component2
 PackageName: oss_component2
