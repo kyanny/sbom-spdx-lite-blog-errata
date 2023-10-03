@@ -32,11 +32,11 @@ PackageLicenseConcluded: MIT
 PackageLicenseDeclared: MIT
 PackageHomePage: http://oss-component1/
 PackageCopyrightText: Copyright 2008-2010 oss suplier
-### oss_component2
-PackageName: oss_component2
-SPDXID: SPDXRef-oss_component2
+### oss-component2
+PackageName: oss-component2
+SPDXID: SPDXRef-oss-component2
 PackageVersion: 2.0
-PackageFileName: oss_component2
+PackageFileName: oss-component2
 PackageDownloadLocation: http://oss-component2.example.com/download/v2.0
 FilesAnalyzed: false
 PackageLicenseConcluded: LGPL-2.0-only
