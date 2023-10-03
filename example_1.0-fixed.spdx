@@ -26,7 +26,7 @@ PackageName: oss_component1
 SPDXID: SPDXRef-oss_component1
 PackageVersion: 1.0
 PackageFileName: oss_component1
-PackageDownloadLocation: http://oss_component1/download/v1.0
+PackageDownloadLocation: http://oss-component1.example.com/download/v1.0
 FilesAnalyzed: false
 PackageLicenseConcluded: MIT
 PackageLicenseDeclared: MIT
