@@ -1,0 +1,6 @@
+### original_component
+CopyrightText:Copyright 2020-2021 ExmapleCorp
+### oss_component1
+CopyrightText:Copyright 2008-2010 oss suplier
+### oss_component2
+CopyrightText: NOASSERTION

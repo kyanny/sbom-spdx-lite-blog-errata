@@ -1,0 +1,2 @@
+## original_component
+LicenseComment: This is the Haisho License.

@@ -1,0 +1,5 @@
+## License Information
+LicenseID: LicenseRef-Haisho
+ExtractedText: これは○○社が提供するOSSに適用されるライセンスです。このライセンスが適用されたOSSを使用した場合、使用者は以下の項目すべてを"拝承"したとみなします。
+LicenseName: Haisho License
+LicenseComment: This is the Haisho License

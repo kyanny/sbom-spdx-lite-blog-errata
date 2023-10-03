@@ -1,0 +1,6 @@
+### original_component
+PackageVersion: 1.0
+### oss_component1
+PackageVersion: 1.0
+### oss_component2
+PackageVersion: 2.0

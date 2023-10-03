@@ -1,0 +1,6 @@
+### original_component
+SPDXID: SPDXRef-original_component
+### oss_component1
+SPDXID: SPDXRef-oss_component1
+### oss_component2
+SPDXID: SPDXRef-oss_component2

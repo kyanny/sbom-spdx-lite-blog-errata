@@ -1,0 +1,6 @@
+### original_component
+PackageDownloadLocation: NOASSERTION
+### oss_component1
+PackageDownloadLocation: http://oss_component1/download/v1.0
+### oss_component2
+PackageDownloadLocation: http://oss_component2/download/v2.0

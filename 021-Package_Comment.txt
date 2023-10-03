@@ -1,0 +1,6 @@
+### original_component
+PackageComment: exampleCorp製のパッケージ。
+### oss_component1
+### なし
+### oss_component2
+### なし

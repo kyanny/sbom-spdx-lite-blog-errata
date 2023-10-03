@@ -1,0 +1,3 @@
+SPDXVersion: SPDX-2.0
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT

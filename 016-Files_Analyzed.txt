@@ -1,0 +1,6 @@
+### original_component
+FilesAnalyzed: false
+### oss_component1
+FilesAnalyzed: false
+### oss_component2
+FilesAnalyzed: false

@@ -1,0 +1,6 @@
+### original_component
+### なし
+### oss_component1
+PackageHomePage: http://oss_component1/
+### oss_component2
+### なし

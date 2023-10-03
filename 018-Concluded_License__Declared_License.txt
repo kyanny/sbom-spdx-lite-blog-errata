@@ -1,0 +1,9 @@
+### original_component
+PackageLicenseConcluded: LicenseRef-Haisho
+PackageLicenseDeclared: LicenseRef-Haisho
+### oss_component1
+PackageLicenseConcluded: MIT
+PackageLicenseDeclared: MIT
+### oss_component2
+PackageLicenseConcluded: LGPL-2.0-only
+PackageLicenseDeclared: LGPL-2.0-only

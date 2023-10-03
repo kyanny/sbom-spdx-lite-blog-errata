@@ -1,0 +1,9 @@
+## Document Info
+SPDXVersion: SPDX-2.0
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: example_1.0
+DocumentNamespace: http://spdx.org/spdxdocs/example_1.0-69527cee-596f-4ca4-9ecd-8c02fb12a175
+Creator: Person: Nanashi no gonbe ()
+Creator: Organization: ExampleCorp ()
+Created: 2021-10-31T14:00:00Z

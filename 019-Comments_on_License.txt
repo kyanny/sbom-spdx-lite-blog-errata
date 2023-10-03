@@ -1,0 +1,6 @@
+### original_component
+PackageLicenseComments: Haisho Licenseは自社が配布しているossに適用されるセンス。
+### oss_component1
+### なし
+### oss_component2
+### なし

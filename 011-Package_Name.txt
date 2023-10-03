@@ -1,0 +1,6 @@
+### original_component
+PackageName: original_component
+### oss_component1
+PackageName: oss_component1
+### oss_component2
+PackageName: oss_component2

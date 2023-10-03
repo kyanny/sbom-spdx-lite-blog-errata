@@ -1,0 +1,34 @@
+## Package Info
+### original_component
+PackageName: original_component
+SPDXID: SPDXRef-original_component
+PackageVersion: 1.0
+PackageFileName: original_component
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: LicenseRef-Haisho
+PackageLicenseDeclared: LicenseRef-Haisho
+CopyrightText:Copyright 2020-2021 ExmapleCorp
+PackageLicenseComments: Haisho Licenseは自社が配布しているossに適用されるライセス。
+PackageComment: exampleCorp製のパッケージ。
+### oss_component1
+PackageName: oss_component1
+SPDXID: SPDXRef-oss_component1
+PackageVersion: 1.0
+PackageFileName: oss_component1
+PackageDownloadLocation: http://oss_component1/download/v1.0
+FilesAnalyzed: false
+PackageLicenseConcluded: MIT
+PackageLicenseDeclared: MIT
+PackageHomePage: http://oss_component1/
+CopyrightText:Copyright 2008-2010 oss suplier
+### oss_component2
+PackageName: oss_component2
+SPDXID: SPDXRef-oss_component2
+PackageVersion: 2.0
+PackageFileName: oss_component2
+PackageDownloadLocation: http://oss_component2/download/v2.0
+FilesAnalyzed: false
+PackageLicenseConcluded: LGPL-2.0-only
+PackageLicenseDeclared: LGPL-2.0-only
+CopyrightText: NOASSERTION
