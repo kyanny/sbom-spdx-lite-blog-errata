@@ -9,11 +9,11 @@ Creator: Organization: ExampleCorp ()
 Created: 2021-10-31T14:00:00Z
 
 ## Package Info
-### original_component
-PackageName: original_component
-SPDXID: SPDXRef-original_component
+### original-component
+PackageName: original-component
+SPDXID: SPDXRef-original-component
 PackageVersion: 1.0
-PackageFileName: original_component
+PackageFileName: original-component
 PackageDownloadLocation: NOASSERTION
 FilesAnalyzed: false
 PackageLicenseConcluded: LicenseRef-Haisho
