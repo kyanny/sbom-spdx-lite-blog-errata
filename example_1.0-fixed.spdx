@@ -37,7 +37,7 @@ PackageName: oss_component2
 SPDXID: SPDXRef-oss_component2
 PackageVersion: 2.0
 PackageFileName: oss_component2
-PackageDownloadLocation: http://oss_component2/download/v2.0
+PackageDownloadLocation: http://oss-component2.example.com/download/v2.0
 FilesAnalyzed: false
 PackageLicenseConcluded: LGPL-2.0-only
 PackageLicenseDeclared: LGPL-2.0-only
